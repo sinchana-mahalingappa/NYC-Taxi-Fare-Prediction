@@ -92,9 +92,9 @@ Final-year engineering student specializing in **AI & Machine Learning**, passio
 2. Install dependencies  
    ```bash
    !pip install scikit-learn matplotlib pandas numpy lightgbm
-3.Upload or link the dataset (CSV)
+ 3.Upload or link the dataset (CSV)
 
-4.Run all cells sequentially
+ 4.Run all cells sequentially
 
 ### 💬 Future Improvements
 
@@ -111,5 +111,6 @@ Cleaned 48 k+ records, engineered distance/time features, and compared Linear Re
 Achieved MAE = 1.99, RMSE = 3.92, identifying distance as the dominant predictive factor.
 
 ---
+
 
 
