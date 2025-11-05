@@ -87,22 +87,23 @@ Final-year engineering student specializing in **AI & Machine Learning**, passio
 
 ---
 
-### 🧩 How to Run
-1. Open the notebook in **Google Colab**  
-2. Install dependencies  
-   ```bash
-   !pip install scikit-learn matplotlib pandas numpy lightgbm
- 3.Upload or link the dataset (CSV)
+### 🧩 How to Run1.  Open the notebook in **Google Colab**
+2.  Install dependencies
+    ```bash
+    !pip install scikit-learn matplotlib pandas numpy lightgbm
+    ```
+3.  Upload or link the dataset (CSV)
+4.  Run all cells sequentially
 
- 4.Run all cells sequentially
+ ---
 
 ### 💬 Future Improvements
 
-Experiment with LightGBM/XGBoost for faster training
+- Experiment with LightGBM/XGBoost for faster training
+- Add geolocation features (distance to airports, boroughs)
+- Deploy as an interactive web app using Streamlit
 
-Add geolocation features (distance to airports, boroughs)
-
-Deploy as an interactive web app using Streamlit
+---
 
 ### 📈 Project Summary
 
@@ -111,6 +112,7 @@ Cleaned 48 k+ records, engineered distance/time features, and compared Linear Re
 Achieved MAE = 1.99, RMSE = 3.92, identifying distance as the dominant predictive factor.
 
 ---
+
 
 
 
