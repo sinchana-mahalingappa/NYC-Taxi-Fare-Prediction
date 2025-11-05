@@ -87,7 +87,8 @@ Final-year engineering student specializing in **AI & Machine Learning**, passio
 
 ---
 
-### 🧩 How to Run1.  Open the notebook in **Google Colab**
+### 🧩 How to Run
+1.  Open the notebook in **Google Colab**
 2.  Install dependencies
     ```bash
     !pip install scikit-learn matplotlib pandas numpy lightgbm
@@ -112,6 +113,7 @@ Cleaned 48 k+ records, engineered distance/time features, and compared Linear Re
 Achieved MAE = 1.99, RMSE = 3.92, identifying distance as the dominant predictive factor.
 
 ---
+
 
 
 
