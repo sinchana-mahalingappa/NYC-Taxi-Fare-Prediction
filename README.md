@@ -72,3 +72,10 @@ The goal is to understand what factors drive fare amounts and to build a model t
 ---
 
 ### 📂 Folder Structure
+NYC-Taxi-Fare-Prediction/
+│
+├── NYC_Taxi_Fare_Prediction.ipynb   # Google Colab notebook
+├── README.md                        # Project documentation 
+└── taxi_rf_model.joblib             # Saved Random Forest model 
+
+
