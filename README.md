@@ -78,4 +78,38 @@ NYC-Taxi-Fare-Prediction/
 ├── README.md                        # Project documentation 
 └── taxi_rf_model.joblib             # Saved Random Forest model 
 
+---
+
+### 🪶 Author
+**Sinchana M**  
+[LinkedIn](https://www.linkedin.com/in/sinchana-mahalingappa) | [GitHub](https://github.com/sinchana-mahalingappa)  
+Final-year engineering student specializing in **AI & Machine Learning**, passionate about data-driven problem-solving.
+
+---
+
+### 🧩 How to Run
+1. Open the notebook in **Google Colab**  
+2. Install dependencies  
+   ```bash
+   !pip install scikit-learn matplotlib pandas numpy lightgbm
+3.Upload or link the dataset (CSV)
+
+4.Run all cells sequentially
+
+### 💬 Future Improvements
+
+Experiment with LightGBM/XGBoost for faster training
+
+Add geolocation features (distance to airports, boroughs)
+
+Deploy as an interactive web app using Streamlit
+
+### 📈 Project Summary
+
+Built an end-to-end machine-learning pipeline to predict NYC taxi fares using Python.
+Cleaned 48 k+ records, engineered distance/time features, and compared Linear Regression vs Random Forest models.
+Achieved MAE = 1.99, RMSE = 3.92, identifying distance as the dominant predictive factor.
+
+---
+
 
